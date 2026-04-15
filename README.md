@@ -26,18 +26,24 @@ This project demonstrates the design and implementation of a multi-branch enterp
 - VLAN Segmentation
 - Routing & Switching
 
-## 🧪 Testing & Verification
-- Successful ping between branches
-- DNS resolution using custom domain
-- End-to-end connectivity across global network
+## 🧠 Network Design Highlights
+
+- Hierarchical network design (Core + Branch architecture)
+- Department-based segmentation using VLANs
+- Scalable WAN design using /30 subnetting
+- Centralized services (DNS, Web Server)
+- Dynamic routing with OSPF
 
 ## 📷 Project Screenshots
 ![Network Topology](topology.png)
 
-## 📁 Files Included
-- Packet Tracer File (.pkt)
-- Network Topology
-- Configuration Details
+## ▶️ How to Run
+
+1. Open the '.pkt' file using Cisco Packet Tracer
+2. Start simulation mode (optional)
+3. Test connectivity using:
+   - ping between branch PCs
+   - access web server via browser
 
 ## 🚀 Author
 Rohith Prakash
