@@ -32,7 +32,7 @@ This project demonstrates the design and implementation of a multi-branch enterp
 - End-to-end connectivity across global network
 
 ## 📷 Project Screenshots
-[Network Topology](topology.png)
+![Network Topology](topology.png)
 
 ## 📁 Files Included
 - Packet Tracer File (.pkt)
